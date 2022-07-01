@@ -1,2 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo. TR First repo for "kodluyoruz" bootcamp [EN]
+
+TR Kodluyoruz Eğitimi kapsamında açtığım ilk repo. 
+
+EN First repo for "kodluyoruz" bootcamp [EN]
