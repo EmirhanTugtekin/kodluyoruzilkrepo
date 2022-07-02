@@ -1,3 +1,5 @@
+https://app.patika.dev/emirhant
+
 # kodluyoruzilkrepo
 
 Bu repo [Kodluyoruz](www.google.com) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor
