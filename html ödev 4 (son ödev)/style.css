@@ -1,0 +1,44 @@
+body{
+    background-color: bisque;
+}
+
+h1 {
+    color: brown;
+    font-style: italic;
+}
+
+.bilgi > span {
+    color: brown;
+    font-weight: bold;
+  }
+  .afiyetOlsun {
+    margin-right: 15rem;
+    float: right;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  #title {
+    margin-left: 29px;
+  }
+  .baslik {
+    color: white;
+    border-radius: 1rem;
+    background-color: brown;
+    font-weight: bold;
+  }
+
+  #giriş {
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  .info {
+    padding: 6px;
+    text-decoration: underline;
+  }
+
+  #içerik {
+    margin: 3px auto;
+    width: 55%;
+  }
