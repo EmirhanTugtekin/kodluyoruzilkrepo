@@ -1,0 +1,16 @@
+.photo{
+    height: 280px;
+    width: 440px;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+h3{
+    color:red;
+}
+
+p{
+    font-size: larger;
+}
